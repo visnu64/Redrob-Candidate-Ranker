@@ -28,10 +28,10 @@ COPY rank.py precompute.py validate_submission.py ./
 # Streamlit demo app
 COPY scripts/demo_app.py ./demo_app.py
 
-EXPOSE 8501
+EXPOSE 7860
 
 ENV PYTHONPATH=/app
-ENV STREAMLIT_SERVER_PORT=8501
+ENV STREAMLIT_SERVER_PORT=7860
 ENV STREAMLIT_SERVER_HEADLESS=true
 
 CMD ["streamlit", "run", "demo_app.py"]
