@@ -5,10 +5,10 @@ from pathlib import Path
 
 import streamlit as st
 
-st.set_page_config(page_title="Redrob Ranker — Velocity Labs", page_icon="🎯", layout="wide")
+st.set_page_config(page_title="Redrob Ranker — ERORR505", page_icon="🎯", layout="wide")
 
-st.title("🎯 Redrob Intelligent Candidate Ranker")
-st.caption("Velocity Labs · INDIA.RUNS Hackathon — Track 01")
+st.title(" Redrob Candidate Ranker")
+st.caption("ERORR505 · INDIA.RUNS Hackathon")
 
 with st.expander("How it works", expanded=False):
     st.markdown("""
