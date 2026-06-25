@@ -1,0 +1,19 @@
+# environment.yml
+name: redrob_ranker
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.11,<3.14
+  - numpy>=1.26.4
+  - pandas>=2.2.3
+  - faiss-cpu>=1.9.0
+  - pip
+  - pip:
+      - sentence-transformers>=3.3.1
+      - rapidfuzz>=3.9.7
+      - python-dateutil>=2.9.0
+      - streamlit>=1.40.1
+      - pytest>=8.3.4
+      - pytest-cov>=6.0.0
+      - ruff>=0.8.6
