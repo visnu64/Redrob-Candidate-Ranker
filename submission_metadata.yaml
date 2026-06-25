@@ -1,6 +1,6 @@
 team_name: "ERORR505"
 participant_id: "@visnusridhar2005_1439"        # Fill from portal after registration
-github_repo: ""
+github_repo: "https://github.com/visnu64/Redrob-Candidate-Ranker"
 sandbox_link: ""          # Fill after HuggingFace Spaces / Streamlit Cloud deploy
 
 ai_tools_used:
