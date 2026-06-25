@@ -1,3 +1,12 @@
+---
+title: Redrob Candidate Ranker
+emoji: 🎯
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+---
+
 # Redrob Ranker — Velocity Labs
 
 **INDIA.RUNS Hackathon · Track 01 · Intelligent Candidate Discovery & Ranking**
