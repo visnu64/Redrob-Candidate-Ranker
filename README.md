@@ -7,9 +7,9 @@ sdk: docker
 pinned: false
 ---
 
-# Redrob Ranker — Velocity Labs
+# Redrob Ranker — ERROR505
 
-**INDIA.RUNS Hackathon · Track 01 · Intelligent Candidate Discovery & Ranking**
+**INDIA.RUNS Hackathon · Redrob-Candidate-Ranker **
 
 A multi-signal AI ranking engine that finds the right candidates — not just the keyword-matching ones.
 
